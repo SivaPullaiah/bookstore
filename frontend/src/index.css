@@ -43,6 +43,9 @@ main {
 .img-thumbnail {
   height: 80px;
 }
+.small-container {
+  max-width: 600px;
+}
 .product {
   border: 1px #404040 solid;
   margin: 1rem;
