@@ -1,6 +1,7 @@
 const data = {
   products: [
     {
+      _id: '1',
       name: 'ELON MUSK',
       slug: 'elon-musk',
       category: 'books',
@@ -13,6 +14,7 @@ const data = {
       description: 'Biography of Elon Musk',
     },
     {
+      _id: '2',
       name: 'DEEP WORK.',
       slug: 'deep-work',
       category: 'books',
@@ -25,6 +27,7 @@ const data = {
       description: 'Insights about work.',
     },
     {
+      _id: '3',
       name: 'RICH DAD POOR DAD',
       slug: 'rich-dad-poor-dad',
       category: 'books',
@@ -37,6 +40,7 @@ const data = {
       description: 'Real life emotions.',
     },
     {
+      _id: '4',
       name: 'The Philosophy of money',
       slug: 'the-philosophy-of-money',
       category: 'books',
