@@ -14,7 +14,7 @@ const data = {
     },
     {
       name: 'DEEP WORK.',
-      slug: 'deep work',
+      slug: 'deep-work',
       category: 'books',
       image: '/images/p2.jpg',
       price: 250,
